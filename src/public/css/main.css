@@ -1,0 +1,103 @@
+body {
+    background: #fffbd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fffbd5 , #b20a2c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fffbd5, #b20a2c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+nav {
+  font-size: 22px;
+  color: #F1D5BA;
+  margin-bottom: 0px;
+}
+
+.logo {
+  width: 30%;
+  color: #C0354A;
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+.carda:hover {
+	transition-property: all;
+	transition-duration: 1s;
+	transition-timing-function: ease-out;
+	transform: scale(1.2);
+}
+
+.carda {
+  margin-bottom: 20px;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card-body h1 {
+  text-align: center;
+}
+.card-body p{
+  font-size: 20px;
+  text-align: center;
+}
+
+.jumbotron {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar-brand {
+  font-size: 28px;
+  color: #F1D5BA
+}
+
+p span {
+  font-size: 22px;
+  color: #C0354A;
+}
+
+.lead {
+  font-size: 30px;
+}
+
+.btn-danger{
+  background-color: #C0354A;
+  border-color: #C0354A;
+}
+
+a {
+  color: #C0354A;
+
+  
+}
+.bg-dark {
+  background: #C0354A!important;  /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #b20a2c, #db2e51)!important;  /* Chrome 10-25, Safari 5.1-6 */
+    /*/background: linear-gradient(to right, #b20a2c, #db2e51 )!important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.btn-primary {
+  align-items: center;
+  background-color: #C0354A;
+  border-color: #C0354A;
+  border-radius: 10px;
+}
+
+.btn-primary:hover{
+  background-color: #C0354A;
+  border-color: #C0354A;
+} 
+
+.btn-success {
+  background-color: #C0354A;
+  border-color: #C0354A;
+}
+
+.btn-success:hover {
+  background-color: #C0354A;
+  border-color: #C0354A;
+}
