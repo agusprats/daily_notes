@@ -1,2 +1,6 @@
 # daily_notes
-Notes App using  JS-Mongodb-Bootstrap
+Notes App using  NodeJs - Express - Mongodb - Bootstrap
+
+<br/>
+
+<img src="demo.png"/>
